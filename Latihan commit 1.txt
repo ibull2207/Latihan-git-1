@@ -4,3 +4,4 @@ Urutan Buah Yang Paling Disukai :
   3. Jeruk
   4. Apel
   5. Nanas
+  6. Semangka
